@@ -1,1 +1,0 @@
-java -Xmx10g -jar Model.jar
